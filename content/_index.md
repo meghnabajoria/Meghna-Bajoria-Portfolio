@@ -58,7 +58,7 @@ sections:
           location: United States
           date_start: '2021-02-01'
           date_end: '2022-06-30'
-          description: |3-
+          description: |2-
               Responsibilities include:
 
               * Automated the manual process of uploading products and saved business team 100 hours per week. Went
