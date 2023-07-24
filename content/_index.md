@@ -64,14 +64,14 @@ sections:
               * Automated the manual process of uploading products and saved business team 100 hours per week. Went on to optimize the code to improve performance by 86%.
               * Led a team of 4 to revamp multiple microservices to build price segmentation model in the application that positively impacted the GMV of the application.
               * Improved search query performance by 58% which enhanced user experience and took complete ownership of handling Elastic Search for team.
-	- title: Software developer
-          company: Google Summer of Code (The Mifos Initiative)
-          company_url: ''
-          company_logo: org-gc
-          location: United States
-          date_start: '2023-05-29'
-          date_end: ''
-          description: |2-
+	 - title: Software developer
+           company: Google Summer of Code (The Mifos Initiative)
+           company_url: ''
+           company_logo: org-gc
+           location: United States
+           date_start: '2023-05-29'
+           date_end: ''
+           description: |2-
               Responsibilities include:
 
               * Developing a chatbot utilizing Java and Rasa Natural Language Processing (NLP) framework. Involved in designing and coding conversational flows, and training the chatbot to understand user queries.
