@@ -51,20 +51,18 @@ sections:
 
               * Developing a chatbot utilizing Java and Rasa Natural Language Processing (NLP) framework. Involved in designing and coding conversational flows, and training the chatbot to understand user queries.
               * Leveraged Java programming skills to develop the backend functionalities and integrate Mifos APIs, while leveraging Rasa's NLP capabilities for effective natural language understanding.
-        - title: Software engineer
-          company: Quinbay Technologies (Blibli.com)
+        - title: Software developer
+          company: Google Summer of Code (The Mifos Initiative)
           company_url: ''
           company_logo: org-gc
           location: United States
-          date_start: '2021-02-01'
-          date_end: '2022-06-30'
+          date_start: '2023-05-29'
+          date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Automated the manual process of uploading products and saved business team 100 hours per week. Went
-on to optimize the code to improve performance by 86%.
-              * Led a team of 4 to revamp multiple microservices to build price segmentation model in the application that
-positively impacted the GMV of the application.
+              * Developing a chatbot utilizing Java and Rasa Natural Language Processing (NLP) framework. Involved in designing and coding conversational flows, and training the chatbot to understand user queries.
+              * Leveraged Java programming skills to develop the backend functionalities and integrate Mifos APIs, while leveraging Rasa's NLP capabilities for effective natural language understanding.
     design:
       columns: '2'
   - block: accomplishments
