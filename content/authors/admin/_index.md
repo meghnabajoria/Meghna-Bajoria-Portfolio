@@ -28,17 +28,17 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - Computer Vision
   - Machine Learning
-  - Software engineering
+  - Software Engineering
 
 # Education to show in About widget
 education:
   courses:
-    - course: Masters in Artificial Intelligence
+    - course: Master's in Artificial Intelligence
       institution: San Jose State University
-      year: 2022 - 2024
-    - course: Bachelor's in information technology
-      institution: vellore institute of technology, Vellore
-      year: 2017 - 2021
+      year: 2022-2024
+    - course: Bachelor's in Information Technology
+      institution: Vellore Institute of Technology, Vellore
+      year: 2017-2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
