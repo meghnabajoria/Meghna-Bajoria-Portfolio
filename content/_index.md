@@ -61,7 +61,7 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Developing a chatbot utilizing Java and Rasa Natural Language Processing (NLP) framework. Involved in designing and coding conversational flows, and training the chatbot to understand user queries.
+              * Automated the manual process of uploading products and saved business team 100 hours per week. Went on to optimize the code to improve performance by 86% queries.
               * Leveraged Java programming skills to develop the backend functionalities and integrate Mifos APIs, while leveraging Rasa's NLP capabilities for effective natural language understanding.
     design:
       columns: '2'
