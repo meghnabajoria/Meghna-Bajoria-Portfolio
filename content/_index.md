@@ -61,8 +61,9 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Automated the manual process of uploading products and saved business team 100 hours per week. Went on to optimize the code to improve performance by 86% queries.
-              * Leveraged Java programming skills to develop the backend functionalities and integrate Mifos APIs, while leveraging Rasa's NLP capabilities for effective natural language understanding.
+              * Automated the manual process of uploading products and saved business team 100 hours per week. Went on to optimize the code to improve performance by 86%.
+              * Led a team of 4 to revamp multiple microservices to build price segmentation model in the application that
+positively impacted the GMV of the application understanding.
     design:
       columns: '2'
   - block: accomplishments
