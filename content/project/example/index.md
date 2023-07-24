@@ -1,9 +1,9 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Vehicle-Counter
+summary: Counting Cars with YOLO Models using Pre-recorded Videos.
 tags:
   - Deep Learning
-date: '2016-04-27T00:00:00Z'
+date: '2023-07-24T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
