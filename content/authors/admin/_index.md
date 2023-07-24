@@ -22,7 +22,7 @@ organizations:
     url: https://www.sjsu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include Computer Vision and Machine Learning. I enjoy software development too.
 
 # Interests to show in About widget
 interests:
@@ -34,10 +34,10 @@ interests:
 education:
   courses:
     - course: Master's in Artificial Intelligence
-      institution: San Jose State University
+      institution: San Jose State University, San Jose, USA
       year: 2022-2024
     - course: Bachelor's in Information Technology
-      institution: Vellore Institute of Technology, Vellore
+      institution: Vellore Institute of Technology, Vellore, India
       year: 2017-2021
 
 # Social/Academic Networking
@@ -48,15 +48,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'meghnabajoria8@gmail.com'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/meghnabajoria
@@ -77,5 +68,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Meghna Bajoria is a master's in artificial intelligence at San Jose State University. Her research interests include Computer Vision and Machine Learning techniques. She also enjoys software development and loves solving problems. She is currently looking for Fall'23 co-op  and New grad 2024 opportunities in machine learning and software developement.
 {style="text-align: justify;"}

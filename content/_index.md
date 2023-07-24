@@ -49,9 +49,8 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Developing a chatbot utilizing Java and Rasa Natural Language Processing (NLP) framework. Involved in designing and coding conversational flows, and training the chatbot to understand user queries.
+              * Leveraged Java programming skills to develop the backend functionalities and integrate Mifos APIs, while leveraging Rasa's NLP capabilities for effective natural language understanding.
         - title: Software engineer
           company: Quinbay Technologies - Blibli.com
           company_url: ''
