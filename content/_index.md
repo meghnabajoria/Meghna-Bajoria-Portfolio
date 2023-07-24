@@ -58,10 +58,13 @@ sections:
           location: India
           date_start: '2021-02-01'
           date_end: '2022-06-30'
-          description:
-		* Automated the manual process of uploading products and saved business team 100 hours per week. Went on to optimize the code to improve performance by 86%
+          description: |2-
+		Taught electronic engineering and researched semiconductor physics.
+				* Automated the manual process of uploading products and saved business team 100 hours per week. Went on to optimize the code to improve performance by 86%
 		* Led a team of 4 to revamp multiple microservices to build price segmentation model in the application that positively impacted the GMV of the application
 		* Improved search query performance by 58% which enhanced user experience and took complete ownership of handling Elastic Search for team
+
+	
     design:
       columns: '2'
   - block: accomplishments
