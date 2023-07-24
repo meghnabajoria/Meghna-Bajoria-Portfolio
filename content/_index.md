@@ -65,8 +65,6 @@ sections:
 on to optimize the code to improve performance by 86%.
               * Led a team of 4 to revamp multiple microservices to build price segmentation model in the application that
 positively impacted the GMV of the application.
-	      * Improved search query performance by 58% which enhanced user experience and took complete ownership
-of handling Elastic Search for team.
     design:
       columns: '2'
   - block: accomplishments
