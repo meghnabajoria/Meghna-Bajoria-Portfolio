@@ -58,7 +58,7 @@ sections:
           location: India
           date_start: '2021-02-01'
           date_end: '2022-06-30'
-           description: |2-
+          description: |2-
               Responsibilities include:
 
               * Developing a chatbot utilizing Java and Rasa Natural Language Processing (NLP) framework. Involved in designing and coding conversational flows, and training the chatbot to understand user queries.
