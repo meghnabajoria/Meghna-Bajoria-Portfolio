@@ -25,12 +25,8 @@ sections:
           icon_pack: fas
         - name: Computer Vision
           description: 0%
-          icon: camera-retro
-          icon_pack: fas
-	- name: Spring boot
-          description: 100%
           icon: java
-	  icon_pack: fa-brands
+          icon_pack: fa-brands
   - block: experience
     content:
       title: Experience
