@@ -29,8 +29,8 @@ sections:
           icon_pack: fas
 	- name: Spring boot
           description: 100%
-          icon: Java
-          icon_pack: fab
+          icon: java
+	  icon_pack: fa-brands
   - block: experience
     content:
       title: Experience
