@@ -23,10 +23,14 @@ sections:
           description: 100%
           icon: chart-line
           icon_pack: fas
+        - name: Spring boot
+          description: 100%
+          icon: fa-java
+	  icon_pack: fa-brands
         - name: Computer Vision
           description: 0%
-          icon: java
-          icon_pack: fa-brands
+          icon: camera-retro
+          icon_pack: fas 
   - block: experience
     content:
       title: Experience
