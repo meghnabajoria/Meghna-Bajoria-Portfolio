@@ -27,6 +27,10 @@ sections:
           description: 0%
           icon: camera-retro
           icon_pack: fas
+	- name: Spring boot
+          description: 100%
+          icon: Java
+          icon_pack: fab
   - block: experience
     content:
       title: Experience
