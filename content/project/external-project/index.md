@@ -15,19 +15,13 @@ image:
 links:
   - icon: Github
     icon_pack: fab
-    name: Follow
+    name: Link
     url: 'https://www.ingentaconnect.com/contentone/asp/jctn/2020/00000017/00000012/art00043'
 url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
 ---
 This paper presents an in-depth study of Pneumonia detection using Chest X-rays and machine learning algorithms, including SqueezeNet, DenseNet, and Resnet34. The study's aim was to automate the process of pneumonia diagnosis using a convolutional neural network (CNN). This is accomplished by image processing methods such as pre-processing, edge detection, morphological processing, and feature extraction, followed by the use of CNN models for classification.
 

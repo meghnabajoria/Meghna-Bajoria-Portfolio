@@ -15,19 +15,13 @@ image:
 links:
   - icon: Github
     icon_pack: fab
-    name: Follow
+    name: Link
     url: 'https://github.com/meghnabajoria/Vehicle-Counter'
 url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
 ---
 
 Counting cars with YOLO Models using Pre-recorded Videos project aims to develop a computer vision system that can accurately count the number of cars passing through a specific area using pre-existing video recordings. The system utilizes advanced object detection algorithms based on the YOLO (You Only Look Once) architecture.
