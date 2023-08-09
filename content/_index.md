@@ -93,14 +93,6 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
   - block: contact
     id: contact
     content:
@@ -110,26 +102,12 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: meghnabajoria8@gmail.com
       phone: +1 (620)-391-3957
-      appointment_url: 'https://calendly.com'
       address:
         city: San Jose
         region: CA
         postcode: '95113'
         country: United States
         country_code: US
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
